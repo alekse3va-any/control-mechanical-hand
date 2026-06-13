@@ -1,1 +1,9 @@
-# control-mechanical-hand
+# 3D-модели
+
+Для механической части используется готовая модель InMoov Hand:
+
+- https://inmoov.fr/inmoov-hand/
+- https://inmoov.fr/hand-and-forarm/
+- https://www.thingiverse.com/thing:17773
+
+STL-файлы нужно скачать из официального источника. В проекте указывается источник модели и способ адаптации под учебную сборку с одним общим приводом на четыре пальца.
